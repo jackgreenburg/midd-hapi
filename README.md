@@ -58,8 +58,6 @@ Advancing the research towards better health outcomes would definitely make the 
 #### Week 3
 
 - Review most recent literature
-- Implement some fun imputation methods
-- Some RNN model trained
 
 #### Week 6
 
